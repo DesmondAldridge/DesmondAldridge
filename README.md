@@ -17,7 +17,7 @@ Desmond is an actor 🎭 and former travelling performer 🎪 currently enrolled
 <img src="./node-js-logo.png" width="40px"><br>
 <br>
 
-### <marquee> To Be Continued... </marquee>
+### <marquee>To Be Continued...</marquee>
 
 
 
