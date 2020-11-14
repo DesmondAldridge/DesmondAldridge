@@ -10,14 +10,14 @@ Desmond is an actor 🎭 and former travelling performer 🎪 currently enrolled
 
 &nbsp;<img src="./CSS-logo.png" width="30px"><br>
 
-<img src="./JavaScript-logo.png" width="40px"><br>
+<img src="./JavaScript-logo.png" width="39px"><br>
 
 <img src="./mongodb-logo.png" width="40px"><br>
 
 <img src="./node-js-logo.png" width="40px"><br>
 <br>
 
-### <marquee><b>To Be Continued...<b></marquee>
+#### <marquee><b>To Be Continued...<b></marquee>
 
 
 
