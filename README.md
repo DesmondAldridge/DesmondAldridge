@@ -2,7 +2,8 @@
 
 ## A little about Desmond...
 
-Desmond is an actor 🎭 and former travelling performer 🎪 currently enrolled in a full stack web development certification program.💻 
+Desmond is an actor 🎭 and former travelling performer. 🎪 <br>
+Currently enrolled in a full stack web development certification program.💻 
 
 ### 🌱 Technologies studied...
 
