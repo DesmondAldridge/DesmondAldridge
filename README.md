@@ -7,6 +7,7 @@ He is currently enrolled in a full stack web development certification program.ð
 <br>
 #### &nbsp;<marquee><b>To Be Continued...<b></marquee>
 <br>
+  
 ### ðŸŒ± Technologies studied...
 
 <img src="./logos.jpeg" width="150px"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./mongodb-logo.png" width="40px"><img src="./node-js-logo.png" width="40px">
