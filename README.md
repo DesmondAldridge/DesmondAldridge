@@ -6,13 +6,11 @@ Desmond is an actor 🎭 and former travelling performer 🎪 currently enrolled
 
 # 🌱 Technologies studied...
 
-<img src="./logos.jpeg" width="150px">
-<img src="./mongodb-logo.png" width="40px">
-<img src="./node-js-logo.png" width="40px">
+<img src="./logos.jpeg" width="150px"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./mongodb-logo.png" width="40px"><img src="./node-js-logo.png" width="40px">
 <br>
 <br>
 
-#### <marquee><b>To Be Continued...<b></marquee>
+#### &nbsp;<marquee><b>To Be Continued...<b></marquee>
 
 
 
