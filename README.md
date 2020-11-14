@@ -10,7 +10,7 @@ He is currently enrolled in a full stack web development certification program.ð
   
 ### ðŸŒ± Technologies studied...
 
-<img src="./logos.jpeg" width="150px"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./mongodb-logo.png" width="40px"><img src="./node-js-logo.png" width="40px">
+<img src="./logos.jpeg" width="150px"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./mongodb-logo.png" width="40px">&nbsp;<img src="./node-js-logo.png" width="40px">
 
 
 
