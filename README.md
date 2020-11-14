@@ -1,4 +1,4 @@
-# :octocat:  Welcome to Desmond Aldridge's GitHub Repositories :octocat: 
+# :octocat: Welcome to Desmond Aldridge's GitHub :octocat: 
 
 ## A little about Desmond...
 
