@@ -1,10 +1,11 @@
 # :octocat: Welcome to Desmond Aldridge's GitHub :octocat: 
-<br>
+
 ## A little about Desmond...
 
 Desmond is an actor 🎭 and former travelling performer. 🎪 <br>
 He is currently enrolled in a full stack web development certification program.💻 
 <br>
+
 <marquee><b>To Be Continued...👀<b></marquee>
 <br>
   
