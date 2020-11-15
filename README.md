@@ -1,5 +1,5 @@
 # :octocat: Welcome to Desmond Aldridge's GitHub :octocat: 
-
+<br>
 ## A little about Desmond...
 
 Desmond is an actor 🎭 and former travelling performer. 🎪 <br>
