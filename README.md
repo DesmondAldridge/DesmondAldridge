@@ -10,7 +10,7 @@ He is currently enrolled in a full stack web development certification program.ð
 
 ### IDE, Dev Tools, & Communication
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" width=35px>&nbsp;&nbsp;<img src="./bash-icon.png" width=35px>&nbsp;&nbsp;<img src="./terminal-icon.png" width=35px>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/chrome.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/safari.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" width=35px><img src="./slack-icon.jpg" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" width=35px>&nbsp;&nbsp;<img src="./bash-icon.png" width=35px>&nbsp;&nbsp;<img src="./terminal-icon.png" width=36px>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" width=36px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" width=35px>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/chrome.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/safari.png" width=35px>&nbsp;<img src="./slack-icon.jpg" width=35px>
 
 
 #### Core Web Tech & Frameworks
