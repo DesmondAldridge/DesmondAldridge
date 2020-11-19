@@ -12,4 +12,5 @@ He is currently enrolled in a full stack web development certification program.ð
 
 <br>
 <br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DesmondAldridge&show_icons=true)
