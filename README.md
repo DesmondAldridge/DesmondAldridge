@@ -14,7 +14,7 @@ He is currently enrolled in a full stack web development certification program.ð
 
 
 #### Core Web Tech & Frameworks
-<img src="./logos.jpeg" width="150px"><br>
+<img src="./logos-webtech.jpeg" width="150px"><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width=35px>
 
 #### Frontend Frame 
