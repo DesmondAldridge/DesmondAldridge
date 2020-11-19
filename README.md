@@ -10,7 +10,24 @@ He is currently enrolled in a full stack web development certification program.ð
   
 ### ðŸŒ± Technologies studied...
 
-<img src="./logos.jpeg" width="150px"><br><img src="./MySQL-logo.png" width="60px" height="32px">&nbsp;&nbsp;&nbsp;<img src="./mysql-workbench.jpg" width="60px" height="32px"><br>&nbsp;&nbsp;&nbsp;<img src="./mongodb-logo.png" width="50px">&nbsp;&nbsp;<img src="./Robo-3T-Logo.png" width="50px"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./node-js-logo.png" width="50px">
+<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/github.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/html5.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/css3.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/javascript.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/jquery/jquery-original.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/express/express-original.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/npm/npm-original-wordmark.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/sequelize/sequelize-original.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/handlebars/handlebars-original.svg" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/chrome.png" width=50px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/safari.png" width=50px>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
