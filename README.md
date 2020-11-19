@@ -10,7 +10,7 @@ He is currently enrolled in a full stack web development certification program. 
 
 ### Solution Stack
 
-<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/express/express-original.svg" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" width=35px>
+<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" width=35px><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/express/express-original.svg" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" width=35px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" width=35px>
 
 ### Developer Tools & Services
 
