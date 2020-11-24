@@ -1,12 +1,14 @@
 # :octocat: Welcome to Desmond Aldridge's GitHub :octocat: 
 
-## 🎭 A little about Desmond...
+# DESMOND ![status](https://img.shields.io/badge/status-student-green) ![certification](https://img.shields.io/badge/certification-pending-yellow)
+
+## 🎭 A little about Desmond... 
 
 Desmond is an actor 🎬 and former travelling performer. 🎪 <br>
 He is currently enrolled in a full stack web development certification program. 💻 
 <br>
   
-## 🌱 Technologies (Currently Studying/Skilling)
+## 🌱 Technologies ![skilling](https://img.shields.io/badge/skilling-passing-green)
 
 ### Solution Stack
 
