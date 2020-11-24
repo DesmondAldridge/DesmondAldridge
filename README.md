@@ -6,7 +6,7 @@ Desmond is an actor 🎬 and former travelling performer. 🎪 <br>
 He is currently enrolled in a full stack web development certification program. 💻 
 <br>
   
-## 🌱 Technologies (Currently Studying/Training/Skilling)
+## 🌱 Technologies (Currently Studying/Skilling)
 
 ### Solution Stack
 
