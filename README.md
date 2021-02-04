@@ -4,8 +4,7 @@
 
 ## 🎭 A little about Desmond... 
 
-Desmond is an actor 🎬 and former travelling performer. 🎪 <br>
-He is currently enrolled in a full stack web development certification program. 💻 
+Actor 🎬 and travelling performer 🎪 turned full stack web developer. 💻 
 <br>
   
 ## 🌱 Technologies ![skills](https://img.shields.io/badge/Technologies-LEARNED-green)
