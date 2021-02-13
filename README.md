@@ -4,7 +4,7 @@
 
 ## 🎭 A little about Desmond... 
 
-Actor🎬 and travelling performer🎪 turned full stack web developer💻 
+Actor 🎬 and travelling performer 🎪  turned full stack web developer. 💻 
 <br>
   
 ## 🌱 Technologies ![skills](https://img.shields.io/badge/Technologies-LEARNED-green)
