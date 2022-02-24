@@ -4,8 +4,9 @@
 
 ## 🎭 A little about Desmond... 
 
-Actor 🎬  &nbsp; and travelling performer 🎪 &nbsp; turned full stack web developer. 💻 
+Actor 🎬  &nbsp; and travelling performer 🎪 &nbsp; turned developer. 💻 
 <br>
+Coding bootcamp grad '21 (web dev) & currently studying game design.
   
 ## 🌱 Technologies ![skills](https://img.shields.io/badge/Technologies-LEARNED-green)
 
