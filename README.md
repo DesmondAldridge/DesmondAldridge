@@ -10,7 +10,7 @@ Coding bootcamp grad '21 (web dev) & currently studying game design.
   
 ## 🌱 Technologies ![skills](https://img.shields.io/badge/Technologies-LEARNED-green)
 
-### Solution Stack
+#### Solution Stack
 
 <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" width=35px><img src="./express-white.png" width=65px>&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/react.png" width=35px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" width=35px>
 
