@@ -12,7 +12,7 @@ Coding bootcamp grad '21 (web dev) & currently studying game design.
 
 ### GAME DESIGN
 
-<img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg](https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg)" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>
 
 ### WEB DEVELOPMENT
 
