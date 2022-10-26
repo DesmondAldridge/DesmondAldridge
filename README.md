@@ -1,6 +1,5 @@
 # :octocat: Welcome to Desmond Aldridge's GitHub :octocat: 
-
-# DESMOND ![status](https://img.shields.io/badge/FullStackDeveloper-CERTIFICATION-green)
+<!-- # DESMOND ![status](https://img.shields.io/badge/FullStackDeveloper-CERTIFICATION-green) -->
 
 ## 🎭 A little about Desmond... 
 
