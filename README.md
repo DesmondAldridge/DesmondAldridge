@@ -11,7 +11,7 @@ Full Stack Web Development CoC '21 💻 | Game Design BS '23 🎮
 
 ### GAME DESIGN
 
-<img src="https://img.icons8.com/nolan/2x/unreal-engine.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/2x/unity.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://twinery.org/cookbook/stylesheets/logo.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.informer.com/icons_mac/png/128/437/437456.png" width=35px>
+<img src="https://img.icons8.com/nolan/2x/unreal-engine.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/2x/unity.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://twinery.org/cookbook/stylesheets/logo.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.informer.com/icons_mac/png/128/437/437456.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width=35px>
 <!-- <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=35px> -->
 
 ### WEB DEVELOPMENT
