@@ -11,7 +11,7 @@ Full Stack Web Development CoC '21 💻 | Game Design BS '23 🎮
 
 ### GAME DESIGN
 
-<img src="https://img.icons8.com/nolan/2x/unreal-engine.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/2x/unity.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>
+<img src="https://img.icons8.com/nolan/2x/unreal-engine.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/2x/unity.png" width=35px>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width=35px>&nbsp;&nbsp;&nbsp;<img src="[https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg](https://cdn-1.webcatalog.io/catalog/twine-org/twine-org-icon-filled-256.webp?v=1675612073320)" width=35px>&nbsp;&nbsp;&nbsp;<img src="[https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg](https://ue-cdn.artstation.com/imgproxy/zqvQnTaKpgJUonFlZg-ZMM9ROJac-UNee9Mi0jd_Teo/filename:index.jpg/resizing_type:fill/width:640/height:640/aHR0cHM6Ly9kMWl2N2RiNDR5aGd4bi5jbG91ZGZyb250Lm5ldC9pbWFnZXMvY2FjZGNjMTctY2JjMy00M2VmLWJkMjktZDdmZWI4YmY0NTc5L2luZGV4LmpwZw)" width=35px>
 <!-- <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width=35px> -->
 
 ### WEB DEVELOPMENT
